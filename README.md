@@ -25,11 +25,11 @@ git clone https://github.com/yourusername/flip-n-match.git
 cd flip-n-match
 Install backend dependencies:
 
-2)cd ../backend
+2. cd ../backend
 npm install
 Install frontend dependencies:
 
-3)cd ../frontend
+3. cd ../frontend
 npm install
 Usage
 Set up environment variables:
